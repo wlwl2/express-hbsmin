@@ -31,10 +31,12 @@
     "lodash.merge": "4.6.2"
   },
   "devDependencies": {
+    "acorn": "7.1.1",
     "ejs": "2.5.5",
     "express": "4.17.1",
     "express-handlebars": "3.0.0",
     "handlebars": "4.7.6",
+    "kind-of": "6.0.3",
     "nunjucks": "3.2.1",
     "pug": "2.0.4",
     "supertest": "3.0.0",
