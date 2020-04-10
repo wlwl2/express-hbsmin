@@ -1,6 +1,6 @@
 {
   "name": "express-hbsmin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Express middleware (HTML minifier for Express Handlebars).",
   "main": "minifier.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "minifier"
   ],
   "author": "William Lim <manvinedi@gmail.com>",
-  "license": "MIT",
+  "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/wlwl2/express-hbsmin/issues"
   },
