@@ -22,7 +22,7 @@ npm install --save express-hbsmin
 ```js
 
 const express = require('express')
-const minifyHTML = require('express-minify-html')
+const minifyHTML = require('express-hbsmin')
 
 const app = express()
 
