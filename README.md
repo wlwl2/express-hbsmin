@@ -2,11 +2,9 @@
 
 Express middleware (HTML minifier).
 
-This going to be a heavily modified version of
+This meant to be a heavily modified version of
 https://github.com/melonmanchan/express-minify-html (@melonmanchan's
-express-minify-html).
-
-Will be updated soon.
+express-minify-html). Not sure if that will happen.
 
 ## Description
 
