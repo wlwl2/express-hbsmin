@@ -1,10 +1,15 @@
 # express-hbsmin
 
-Express middleware (HTML minifier).
+Express middleware (HTML minifier). Read the warning.
 
 This is meant to be a heavily modified version of
 https://github.com/melonmanchan/express-minify-html (@melonmanchan's
 express-minify-html). Not sure if that will happen.
+
+## Warning: Before you use this.
+
+Causes problems with spacing (you possibly have to change css).
+Load times are longer, but file size is smaller.
 
 ## Description
 
@@ -20,11 +25,11 @@ npm install --save express-hbsmin
 ```js
 
 const express = require('express')
-const minifyHTML = require('express-hbsmin')
+const minifyHbs = require('express-hbsmin')
 
 const app = express()
 
-app.use(minifyHTML({
+app.use(minifyHbs({
   override: true,
   exception_url: false,
   htmlMinifier: {

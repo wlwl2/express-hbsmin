@@ -1,6 +1,6 @@
 {
   "name": "express-hbsmin",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Express middleware (HTML minifier for Express Handlebars).",
   "main": "minifier.js",
   "scripts": {
