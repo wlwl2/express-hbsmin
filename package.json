@@ -35,7 +35,7 @@
     "express": "4.15.3",
     "express-handlebars": "3.0.0",
     "handlebars": "4.3.0",
-    "nunjucks": "2.4.1",
+    "nunjucks": "2.4.3",
     "pug": "0.1.0",
     "supertest": "3.0.0",
     "tape": "4.6.3"
