@@ -1,4 +1,4 @@
-# express-htmlmin
+# express-hbsmin
 
 Express middleware (HTML minifier).
 
@@ -15,7 +15,7 @@ response object for minifying HTML.
 ## Usage
 
 ```sh
-npm install --save express-htmlmin
+npm install --save express-hbsmin
 ```
 
 ```js

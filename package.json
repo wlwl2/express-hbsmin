@@ -12,13 +12,13 @@
   },
   "keywords": [
     "express",
-    "html",
-    "minifier",
-    "middleware",
-    "minify",
-    "minification",
     "hbs",
-    "handlebars"
+    "minification",
+    "handlebars",
+    "minify",
+    "middleware",
+    "html",
+    "minifier"
   ],
   "author": "William Lim <manvinedi@gmail.com>",
   "license": "MIT",
